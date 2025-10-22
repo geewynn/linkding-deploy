@@ -4,3 +4,4 @@ resources:
   - deployment.yml
   - namespace.yml
   - storage.yml
+  - service.yml
